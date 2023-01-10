@@ -1,0 +1,4 @@
+# removing unnecessary binary files
+*.o
+*.hi
+*.exe
